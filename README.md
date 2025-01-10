@@ -31,3 +31,7 @@ To set up the Google Sheet Dashboard, follow these steps:
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at email-soumyaranjansahoo@840gmail.com.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
