@@ -30,7 +30,7 @@ To set up the Google Sheet Dashboard, follow these steps:
 5. Open a Pull Request.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at email-soumyaranjansahoo@840gmail.com.
+If you have any questions or suggestions, feel free to contact me at email-soumyanalyst323@gmail.com.
 
 ## License
 
