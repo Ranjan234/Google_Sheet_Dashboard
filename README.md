@@ -37,4 +37,4 @@ If you have any questions or suggestions, feel free to contact me at email-soumy
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Dashboard
-- ![Dashboard Preview](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf)
+- ![Dashboard Screenshot](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf)
