@@ -1,7 +1,7 @@
 # Google Sheet Dashboard Project (Wave Shoes Sales Store)
 ## Introduction
 This project is a Google Sheet Dashboard that allows users to visualize and analyze data efficiently. The dashboard leverages Google Sheets' capabilities to provide real-time data updates and interactive charts.
-[![Dashboard Preview](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf)]
+
 ## Features
 - **Real-time Data Updates**: Automatically updates data from various sources.
 - **Interactive Charts**: Includes various types of charts (bar, line, pie, etc.) for data visualization.
@@ -35,3 +35,6 @@ If you have any questions or suggestions, feel free to contact me at email-soumy
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Dashboard
+- ![Dashboard Preview](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf)
